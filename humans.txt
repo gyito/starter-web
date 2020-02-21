@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gyric Trinidad	gyric@yahoo.com		lakotwitter
 
 # THANKS
 
